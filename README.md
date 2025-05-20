@@ -1,5 +1,7 @@
 # Planet Fatness
 
+Створено за матеріалами компанії ТОВ"GoIT"
+
 [![Star this repo](https://img.shields.io/github/stars/ViktorPro1/Planet-Fatness?style=social)](https://github.com/ViktorPro1/Planet-Fatness/stargazers)
 
 🔗 **[Переглянути сайт](https://viktorpro1.github.io/Planet-Fatness/)**
